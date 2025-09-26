@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Devansh Gupta currently working on my HUGE Personal Project. There are lots of repositories in my Github but they are private because of my personal project is under development.
+I am Devansh Gupta currently working on my HUGE Personal Project. There are lots of repositories in my Github but they are private because of my personal project is in under development.
 I only make some repositories public to know about my project.
 
 To contact ne:-
